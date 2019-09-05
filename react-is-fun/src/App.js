@@ -4,9 +4,9 @@ import UserForm from './components/UserForm'
 import WeatherDisplay from './components/WeatherDisplay'
 import { whileStatement } from '@babel/types';
 
-// http://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=ab3e1d94d195b07e3c2506085595efed
+// http://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=xxx
 
-const apiKey = 'ab3e1d94d195b07e3c2506085595efed';
+const apiKey = 'xxxx';
 
 
 class App extends React.Component{
