@@ -1,0 +1,12 @@
+.weatherDiv
+{
+	margin:auto;
+	margin-top:25px;
+    width:1050px;
+    background-color:#EBEBEB;
+}
+
+td{
+    text-align: left;
+    border-bottom: solid 1px black;
+}

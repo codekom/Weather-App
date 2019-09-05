@@ -1,0 +1,14 @@
+.myDiv
+{
+	margin:auto;
+	margin-top:25px;
+	width:1050px;
+    background-color: #0a7a95;
+} 
+
+td
+{ 
+  text-align:center;
+  height:60px;
+}
+
